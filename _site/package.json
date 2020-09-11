@@ -1,8 +1,8 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
+    "title": "Devlog-데블로그",
+    "name": "데블로그-Devlog",
     "version": "4.0.10",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "Devlog - 데블로그 개발 일지",
     "keywords": [
         "css",
         "sass",
