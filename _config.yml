@@ -1,19 +1,19 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Devlog - 데블로그
+email:              pjh4564@nate.com
+description:        Devlog - 개발일지
+author:             Jean
 baseurl:            "/"
 url:                "https://JinhwanPark.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   x
+github_username:    JinhwanPark
+facebook_username:  JinhwanPark
 instagram_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-177782736-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
